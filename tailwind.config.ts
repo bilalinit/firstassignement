@@ -9,6 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        ryzen:{
+          900: "#17130f",
+          950:"#d3c8b6",
+          850:"#4c4c44"
+        },
+       
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
